@@ -36,10 +36,10 @@ public class App {
                 int c = InputUtil.readInt("Choose: ");
                 switch (c) {
                 
-//                    case 1 -> {
-//                        if (role != Role.ADMIN) System.out.println("Access denied.");
-//                        else cfg.deskController().menu();
-//                    }
+                    case 1 -> {
+                        if (role != Role.ADMIN) System.out.println("Access denied.");
+                        else cfg.deskController().menu();
+                    }
                 
 //                    case 2 -> cfg.bookingController().menu();
                 
