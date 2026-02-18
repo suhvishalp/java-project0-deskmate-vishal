@@ -3,6 +3,7 @@ package com.deskmate.model;
 import java.time.LocalDateTime;
 
 public class Desk {
+	
     private long deskId;
     private String deskCode;
     private String name;
